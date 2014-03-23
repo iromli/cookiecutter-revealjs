@@ -1,0 +1,13 @@
+{
+    "repo_name": "example-talk",
+    "year": "2014",
+    "version": "0.1.0",
+    "theme": "night",
+    "author": "Isman Firmansyah",
+    "website": "http://groovematic.com",
+    "twitter": "iromli",
+    "html_title": "Example",
+    "description": "Something",
+    "talk_main_title": "Example Talk",
+    "talk_second_title": "More Title"
+}
